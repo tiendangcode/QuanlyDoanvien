@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id></id>
+        <name>Lê Hà Thu</name>
+        <age>16/8/2005</age>
+        <address>Hà Nội</address>
+        <sex>Nữ</sex>
+        <lop>B5D54</lop>
+        <gpa>6.7</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.8</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Lê Minh Đông</name>
+        <age>16/3/2003</age>
+        <address>cà Mau</address>
+        <sex>Nam</sex>
+        <lop>B5D54</lop>
+        <gpa>6.0</gpa>
+        <doanphi>Chưa đóng</doanphi>
+        <drl>7.4</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Lê Thùy Dương</name>
+        <age>26/3/2005</age>
+        <address>Đà Nẵng</address>
+        <sex>Nữ</sex>
+        <lop>B3D54</lop>
+        <gpa>8.0</gpa>
+        <doanphi>Chưa đóng</doanphi>
+        <drl>9.4</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Lê Văn Cao</name>
+        <age>16/3/2004</age>
+        <address>Nghệ An</address>
+        <sex>Nam</sex>
+        <lop>B1D54</lop>
+        <gpa>8.0</gpa>
+        <doanphi>Chưa đóng</doanphi>
+        <drl>9.4</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Lê Văn Hưng</name>
+        <age>16/3/2005</age>
+        <address>Hà Tĩnh</address>
+        <sex>Nam</sex>
+        <lop>B1D54</lop>
+        <gpa>8.8</gpa>
+        <doanphi>Chưa đóng</doanphi>
+        <drl>9.2</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Mai Danh Đạt</name>
+        <age>13/7/2004</age>
+        <address>Hải Phòng</address>
+        <sex>Nam</sex>
+        <lop>B2D54</lop>
+        <gpa>8.5</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.9</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Nguyễn Hữu Cảnh</name>
+        <age>16/4/2002</age>
+        <address>Yên Bái</address>
+        <sex>Nam</sex>
+        <lop>B4D54</lop>
+        <gpa>7.5</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>8.0</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Nguyễn Văn Cao</name>
+        <age>16/9/2004</age>
+        <address>Quảng Bình</address>
+        <sex>Nam</sex>
+        <lop>B2D54</lop>
+        <gpa>7.0</gpa>
+        <doanphi>Chưa đóng</doanphi>
+        <drl>7.4</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Phan Văn Hà</name>
+        <age>16/9/2004</age>
+        <address>Bình Định</address>
+        <sex>Nam</sex>
+        <lop>B1D54</lop>
+        <gpa>7.6</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>8.4</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Phạm Hà Sơn</name>
+        <age>13/7/2004</age>
+        <address>Thái Bình</address>
+        <sex>Nam</sex>
+        <lop>B5D54</lop>
+        <gpa>8.8</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.8</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Phạm Thanh Hùng</name>
+        <age>13/7/2004</age>
+        <address>Ninh Bình</address>
+        <sex>Nam</sex>
+        <lop>B3D54</lop>
+        <gpa>7.8</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>8.8</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Phạm Thanh Hải</name>
+        <age>13/7/2004</age>
+        <address>Ninh Bình</address>
+        <sex>Nam</sex>
+        <lop>B4D54</lop>
+        <gpa>5.8</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.8</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Phạm Thanh Thúy</name>
+        <age>13/7/2004</age>
+        <address>Ninh Bình</address>
+        <sex>Nữ</sex>
+        <lop>B4D54</lop>
+        <gpa>7.8</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.8</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Phạm Thanh Thảo</name>
+        <age>13/7/2004</age>
+        <address>Ninh Bình</address>
+        <sex>Nữ</sex>
+        <lop>B1D54</lop>
+        <gpa>6.8</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.8</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Trần Hà Sơn</name>
+        <age>14/6/2004</age>
+        <address>Hải Phòng</address>
+        <sex>Nam</sex>
+        <lop>B3D54</lop>
+        <gpa>8.7</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.7</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id></id>
+        <name>Đỗ Mai Anh</name>
+        <age>4/5/2004</age>
+        <address>Nam Định</address>
+        <sex>Nữ</sex>
+        <lop>B1D54</lop>
+        <gpa>7.5</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>8.0</drl>
+        <chibo></chibo>
+        <nvd></nvd>
+        <dangphi></dangphi>
+        <tinhtrang>Không</tinhtrang>
+    </student>
+    <student>
+        <id>13422</id>
+        <name>Nguyễn Mạnh Cường</name>
+        <age>23/2/2003</age>
+        <address>Sơn La</address>
+        <sex>Nam</sex>
+        <lop>B2D54</lop>
+        <gpa>7.8</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.5</drl>
+        <chibo>K2B</chibo>
+        <nvd>12/10/2022</nvd>
+        <dangphi>Đã đóng</dangphi>
+        <tinhtrang>Đảng Viên</tinhtrang>
+    </student>
+    <student>
+        <id>13453</id>
+        <name>Lê Thành Đạt</name>
+        <age>3/7/2004</age>
+        <address>An Giang</address>
+        <sex>Nam</sex>
+        <lop>B3D54</lop>
+        <gpa>7.8</gpa>
+        <doanphi>Đã đóng</doanphi>
+        <drl>7.8</drl>
+        <chibo>K2B</chibo>
+        <nvd>15/6/2020</nvd>
+        <dangphi>Chưa đóng</dangphi>
+        <tinhtrang>Đảng Viên</tinhtrang>
+    </student>
+    <student>
+        <id>23423</id>
+        <name>Phạm Thị Thu Hà</name>
+        <age>06/04/2004</age>
+        <address>Hà Nội</address>
+        <sex>Nữ</sex>
+        <lop>B3D54</lop>
+        <gpa>8.9</gpa>
+        <doanphi>Chưa đóng</doanphi>
+        <drl>7.8</drl>
+        <chibo>K2B</chibo>
+        <nvd>16/04/2023</nvd>
+        <dangphi>Đã đóng</dangphi>
+        <tinhtrang>Đảng Viên</tinhtrang>
+    </student>
+</students>
